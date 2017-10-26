@@ -4,4 +4,4 @@ python:
   - 2.7
 
 script:
-  - main.py
+  - python main.py
